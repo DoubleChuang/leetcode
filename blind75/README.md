@@ -8,16 +8,16 @@
 - [用C語言跑完LeetCode 75](https://ithelp.ithome.com.tw/articles/10289923?sc=iThelpR)
 - [圖解notion](https://useful-journey-3db.notion.site/abd0f2e73f1f40098f2faa4983443a50?v=4231cc2c4a0545479ca05550d5331c1a)
 ## Array
-- [Two Sum](Two_Sum)
-- [Best Time to Buy and Sell Stock](Best_Time_to_Buy_and_Sell_Stock)
-- [Contains Duplicate](Contains_Duplicate)
-- [Product of Array Except Self](Product_of_Array_Except_Self)
-- [Maximum Subarray](Maximum_Subarray)
-- [Maximum Product Subarray](Maximum_Product_Subarray)
-- [Find Minimum in Rotated Sorted Array](Find_Minimum_in_Rotated_Sorted_Array)
-- [Search in Rotated Sorted Array](Search_in_Rotated_Sorted_Array)
-- [3 Sum](3_Sum)
-- [Container With Most Water](Container_With_Most_Water)
+- [Two Sum](Array/Two_Sum)
+- [Best Time to Buy and Sell Stock](Array/Best_Time_to_Buy_and_Sell_Stock)
+- [Contains Duplicate](Array/Contains_Duplicate)
+- [Product of Array Except Self](Array/Product_of_Array_Except_Self)
+- [Maximum Subarray](Array/Maximum_Subarray)
+- [Maximum Product Subarray](Array/Maximum_Product_Subarray)
+- [Find Minimum in Rotated Sorted Array](Array/Find_Minimum_in_Rotated_Sorted_Array)
+- [Search in Rotated Sorted Array](Array/Search_in_Rotated_Sorted_Array)
+- [3 Sum](Array/3_Sum)
+- [Container With Most Water](Array/Container_With_Most_Water)
   
 ## Binary
 - Sum of Two Integers
