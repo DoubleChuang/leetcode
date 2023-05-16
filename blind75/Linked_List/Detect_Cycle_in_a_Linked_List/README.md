@@ -9,6 +9,9 @@
     > Space Complexity : O(n)
 2. Floyds解法
     透過兩個pointer 分別為快慢pointer 一個pointer一次走兩步 一個一次走一步 只要在快pointer走完前遇到慢的pointer代表有cycle
+    > Time Complexity : O(n)
+    > Space Complexity : O(1)
+
     Ref: https://leetcode.com/problems/linked-list-cycle/solutions/3460021/beats-92-12-20-145-top-interview-question/
 
-[leetcode link](https://leetcode.com/problems/reverse-linked-list/description/)
+[leetcode link](https://leetcode.com/problems/linked-list-cycle/description/)
