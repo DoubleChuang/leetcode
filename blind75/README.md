@@ -58,8 +58,8 @@
 
 ## Linked List
 - [Reverse a Linked List](Linked_List/Reverse_a_Linked_List)
-- [Detect Cycle in a Linked List](Detect_Cycle_in_a_Linked_List)
-- [Merge Two Sorted Lists](Merge_Two_Sorted_Lists)
+- [Detect Cycle in a Linked List](Linked_List/Detect_Cycle_in_a_Linked_List)
+- [Merge Two Sorted Lists](Linked_List/Merge_Two_Sorted_Lists)
 - Merge K Sorted Lists
 - Remove Nth Node From End Of List
 - Reorder List
