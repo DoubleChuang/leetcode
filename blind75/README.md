@@ -43,7 +43,7 @@
 - Clone Graph
 - Course Schedule
 - Pacific Atlantic Water Flow
-- Number of Islands [TSMC]
+- [Number of Islands](Graph/Number_of_Islands) [TSMC]
 - Longest Consecutive Sequence
 - Alien Dictionary (Leetcode Premium)
 - Graph Valid Tree (Leetcode Premium)
@@ -60,14 +60,14 @@
 - [Reverse a Linked List](Linked_List/Reverse_a_Linked_List)
 - [Detect Cycle in a Linked List](Linked_List/Detect_Cycle_in_a_Linked_List)
 - [Merge Two Sorted Lists](Linked_List/Merge_Two_Sorted_Lists)
-- Merge K Sorted Lists
-- Remove Nth Node From End Of List
+- [Merge K Sorted Lists](Heap/Merge_K_Sorted_Lists)
+-_[Remove Nth Node From End Of List](Linked_List/Remove_Nth_Node_From_End_Of_List)
 - Reorder List
 
 ## Matrix
 - Set Matrix Zeroes
 - Spiral Matrix
-- Rotate Image
+- [Rotate Image](Matrix/Rotate_Image)
 - Word Search
 
 
@@ -100,6 +100,6 @@
 - Word Search II
 
 ## Heap
-- Merge K Sorted Lists
+- [Merge K Sorted Lists](Heap/Merge_K_Sorted_Lists)
 - Top K Frequent Elements
 - Find Median from Data Stream
